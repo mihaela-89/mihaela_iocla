@@ -1,0 +1,7 @@
+dorel organizeaza un concurs de biciclete prin campusul upb. participantii sunt inregistrati
+in ordine pe baza unor numere intregi iar numerotarea se incepe de la 0. in timpul cursei,
+unui participant i s-a stricat bicicleta si a fost nevoit sa se retraga. cum dorel primeste doar
+lista de finish sub forma unui vector [0, Nr_participanti] din care lipseste concurentul
+care s-a restras sunteti nevoiti sa-l aflati pe acesta folosind formule matematice,
+intrucat, pentru o lista mare de participanti, cautarea liniara ar dura foarte mult.
+a. aflati si afisati suma elementelor vectorului num cat si elementul maxim din acesta
